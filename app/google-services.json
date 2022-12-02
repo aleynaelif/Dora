@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036279836430",
+    "project_id": "dora-1268b",
+    "storage_bucket": "dora-1268b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036279836430:android:97659931951b139e96315f",
+        "android_client_info": {
+          "package_name": "com.ley.dora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036279836430-2gkcseuj5nm9uf2s4akii0ipf69vv91s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlO9po6FON8MOx6wYG8sD589u-X_8_H8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036279836430-2gkcseuj5nm9uf2s4akii0ipf69vv91s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
